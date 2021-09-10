@@ -28,7 +28,7 @@ public class QueueCommand extends ListenerAdapter {
             else {
                 final int trackCount = Math.min(queue.size(), 20);
                 final List<AudioTrack> trackList = new ArrayList<>(queue);
-                final MessageAction messageAction = channel.sendMessage("**Samne bajbe:**\n");
+                final MessageAction messageAction = channel.sendMessage("**Arpor sunben:**\n");
 
                 for (int i = 0; i < trackCount; i++) {
                     final AudioTrack track = trackList.get(i);
