@@ -59,7 +59,7 @@ public class PlayerManager {
                 final List<AudioTrack> tracks = playlist.getTracks();
 
                 channel.sendMessage("Adding to queue: `")
-                        .append(tracks.get(1).getInfo().title)
+                        .append(tracks.get(0).getInfo().title)
                         .append("` by `")
                         .append(tracks.get(0).getInfo().author)
                         .append('`')
