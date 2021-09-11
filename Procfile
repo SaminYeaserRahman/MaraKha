@@ -1,1 +1,1 @@
-Worker: sava src/main/java/Bot
+Worker: java src/main/java/Bot
