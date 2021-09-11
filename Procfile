@@ -1,1 +1,1 @@
-Worker: java java/Bot
+Worker: java main/java/Bot
