@@ -49,12 +49,8 @@
             <assembleDirectory>target</assembleDirectory>
             <programs>
                 <program>
-                    <mainClass>WorkerProcess</mainClass>
+                    <mainClass>Bot</mainClass>
                     <name>worker</name>
-                </program>
-                <program>
-                    <mainClass>Bot.Main</mainClass>
-                    <name>oneoff</name>
                 </program>
             </programs>
           </configuration>
