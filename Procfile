@@ -1,1 +1,1 @@
-worker: MaraKha/src/main/java/Bot
+worker: java MaraKha/src/main/java/Bot
