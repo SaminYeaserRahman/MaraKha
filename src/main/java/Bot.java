@@ -6,7 +6,7 @@ import net.dv8tion.jda.api.JDABuilder;
 
 public class Bot {
 
-    public static String token = "ODg1Mzg4MjczMTYwMTkyMDIy.YTmUFg.QVcUdau_k7WpiysGThTxTlRoL0M";
+    public static String token = "ODg1Mzg4MjczMTYwMTkyMDIy.YTmUFg.h2poLg8SbkL6e03N23PROw0syZU";
     public static JDA jda;
     public static void main(String[] args) throws Exception{
         jda = JDABuilder.createDefault(token).build();
